@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Glauber Guimarães da Silva tenho 37 anos e sou natural Manaus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESBAM. Sou apaixonado por tecnologia e meu instagran pessoal é "[hayzo.dev](https://www.instagram.com/stories/hayzo.dev/)"
+Olá, Me chamo Glauber Guimarães da Silva tenho 37 anos e sou natural Manaus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESBAM. Sou apaixonado por tecnologia e meu instagran pessoal é "[hayzo.dev](https://www.instagram.com/stories/hayzo.dev/)"
 
 <p align="left">
         <a href="https://www.instagram.com/hayzo.dev/">
